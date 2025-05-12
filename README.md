@@ -17,5 +17,8 @@ This is Task 1 of my CodSoft Internship, where I've created a basic text-based c
 🚀 How to Run
 1. Make sure Python 3 is installed on your machine.
 2. Clone the repository or download the script.
-   git clone https://github.com/Bejjaram-Nikhil/CODSOFR_TASK-1
-   cd codsoft-task1-chatbot
+   - git clone https://github.com/Bejjaram-Nikhil/CODSOFR_TASK-1
+   - cd codsoft-task1-chatbot
+3. Run the chatbot using:
+   - python chatbot.py
+4. Start chatting! Type bye or exit to end the conversation.
