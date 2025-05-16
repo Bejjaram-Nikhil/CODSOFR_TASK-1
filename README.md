@@ -1,4 +1,4 @@
-# CODSOFR_TASK-1
+# CODSOFT_TASK-1
 
 🤖 Chatster - Simple Python Chatbot which respond based on pre-defined rules
 This is Task 1 of my CodSoft Internship, where I've created a basic text-based chatbot in Python named Chatster. It can understand and respond to simple user inputs using predefined phrases, and even greets you based on the time of day.
